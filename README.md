@@ -23,7 +23,7 @@ This project focuses on predicting passenger survival on the Titanic using machi
 
 ## ✅ Deliverables
 - GitHub Repo: [FuseMachinesUpscaling](https://github.com/ronak-fuse/FuseMachinesUpscaling)
-- Pull Request: (To be added after submission)
+- Pull Request: This is PR submitted by Sandesh Shrestha
 
 ---
 
